@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
                 color: Colors.blueAccent,
                 onPressed: () async {
                   await exibeAviso(
-                      "Para validar sua carteira é preciso selecionar o comprovante de matrícula clicando no botão \"Validar/Renovar\"");
+                      "Selecione o comprovante de matrícula para \"Validar/Renovar\"");
                   await ImagePicker.pickImage(source: ImageSource.gallery)
                       .then((file) {
                     if (file == null) return;

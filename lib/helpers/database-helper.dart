@@ -47,7 +47,7 @@ class DatabaseHelper {
 
   Future<Database> initializeDatabase() async {
     Directory directory = await getApplicationDocumentsDirectory();
-    String path = directory.path + 'estupassDB2.db';
+    String path = directory.path + 'estupassDB3.db';
 
     var usuariosDatabase =
         await openDatabase(path, version: 1, onCreate: _createDb);
