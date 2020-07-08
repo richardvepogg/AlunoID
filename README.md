@@ -1,6 +1,7 @@
 # AlunoID
 
-A new Flutter project.
+Carteira de estudante digital usuando SQLite para realizar a persistencia de dados.
+Projeto desenvolvido com o instuito de aprendizagem.
 
 ## Getting Started
 
