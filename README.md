@@ -1,7 +1,7 @@
 # AlunoID
 
 Carteira de estudante digital usuando SQLite para realizar a persistencia de dados.
-Projeto desenvolvido com o instuito de aprendizagem.
+Projeto desenvolvido com o intuito de aprendizagem.
 
 ## Getting Started
 
